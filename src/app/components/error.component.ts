@@ -10,7 +10,7 @@ export class ErrorComponent{
     public titulo:string;
 
     constructor(){
-        this.titulo= "Pagina no encontrada men, lptm kakakakajask me mame"
+        this.titulo= "Pagina no encontrada."
     }
 
     ngOnInit(){

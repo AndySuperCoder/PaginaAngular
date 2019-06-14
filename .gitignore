@@ -9,7 +9,8 @@
 
 # dependencies
 /node_modules
-
+#Imagen
+src/assets/salaDeJuegos.jpg
 #test
 /test
 
